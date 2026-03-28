@@ -1,0 +1,96 @@
+name: Auto Publish Daily Post
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # 9h Brasil (12h UTC)
+  workflow_dispatch:  # permite rodar manualmente
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Publish next draft
+        run: |
+          # Verificar se ha drafts
+          if [ ! -d "drafts" ] || [ -z "$(ls -A drafts/ 2>/dev/null)" ]; then
+            echo "Nenhum draft disponivel. Pulando."
+            exit 0
+          fi
+
+          # Pegar o primeiro draft (ordem alfabetica = ordem cronologica)
+          DRAFT=$(ls drafts/ | head -1)
+          echo "Publicando: $DRAFT"
+
+          # Adicionar data de hoje ao frontmatter
+          TODAY=$(date -u +"%Y-%m-%dT%H:%M:%S+00:00")
+          sed -i "s/^date:.*/date: $TODAY/" "drafts/$DRAFT"
+
+          # Mover draft para posts
+          mv "drafts/$DRAFT" "content/posts/$DRAFT"
+
+          # Configurar git
+          git config user.name "Blog Automation"
+          git config user.email "blogautomation@users.noreply.github.com"
+
+          # Commit e push
+          git add -A
+          git commit -m "Publish: $DRAFT"
+          git push
+
+      - name: Setup Pages
+        if: success()
+        uses: actions/configure-pages@v5
+
+  build:
+    needs: publish
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.147.0
+    steps:
+      - name: Install Hugo CLI
+        run: |
+          wget -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v0.147.0/hugo_extended_0.147.0_linux-amd64.tar.gz
+          tar -xzf hugo.tar.gz
+          sudo mv hugo /usr/local/bin/
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Install PaperMod theme
+        run: |
+          mkdir -p themes
+          git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
+      - name: Build with Hugo
+        env:
+          HUGO_CACHEDIR: /tmp/hugo_cache
+          HUGO_ENVIRONMENT: production
+        run: hugo --minify --baseURL "https://blogautomation.github.io/${{ github.event.repository.name }}/"
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
