@@ -1,6 +1,6 @@
 ---
 title: "8 Funcoes Escondidas do Google Fotos que Voce Nao Conhecia"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-03-31T15:54:30+00:00
 draft: false
 tags: ["google fotos", "dicas", "celular"]
 description: "8 Funcoes Escondidas do Google Fotos que Voce Nao Conhecia"
