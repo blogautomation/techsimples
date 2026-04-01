@@ -1,6 +1,6 @@
 ---
 title: "10 Extensoes do Chrome que Todo Mundo Deveria Usar"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-01T15:58:46+00:00
 draft: false
 tags: ["chrome", "extensoes", "navegador"]
 description: "10 Extensoes do Chrome que Todo Mundo Deveria Usar"
