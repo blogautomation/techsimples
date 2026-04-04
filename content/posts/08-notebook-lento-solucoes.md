@@ -1,6 +1,6 @@
 ---
 title: "Notebook Lento? 6 Solucoes que Funcionam de Verdade"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-04T14:04:56+00:00
 draft: false
 tags: ["notebook", "windows", "performance"]
 description: "Notebook Lento? 6 Solucoes que Funcionam de Verdade"
