@@ -1,6 +1,6 @@
 ---
 title: "Como Usar o Notion Para Organizar Toda Sua Vida em Um So Lugar"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-07T16:16:24+00:00
 draft: false
 tags: ["notion", "organizacao", "produtividade", "apps"]
 description: "Como Usar o Notion Para Organizar Toda Sua Vida em Um So Lugar"
