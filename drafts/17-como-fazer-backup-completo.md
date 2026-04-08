@@ -6,7 +6,7 @@ tags: ["backup", "seguranca", "armazenamento", "nuvem"]
 description: "Como Fazer Backup de Tudo e Nunca Mais Perder Seus Arquivos"
 
 cover:
-  image: "https://images.pexels.com/photos/28243823/pexels-photo-28243823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/19825057/pexels-photo-19825057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Fazer Backup de Tudo e Nunca Mais Perder Seus Arquivos"
   hidden: false
 ---
