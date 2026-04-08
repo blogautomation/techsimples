@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["canva", "design", "ferramentas", "gratis"]
 description: "Canva: Como Criar Artes Profissionais de Graca Mesmo Sem Saber Design"
+
+cover:
+  image: "https://images.pexels.com/photos/5463577/pexels-photo-5463577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Canva: Como Criar Artes Profissionais de Graca Mesmo Sem Saber Design"
+  hidden: false
 ---
 
 Voce nao precisa ser designer para criar artes bonitas. O Canva e uma ferramenta online gratuita que permite criar posts para redes sociais, apresentacoes, curriculos, convites e muito mais com qualidade profissional.
