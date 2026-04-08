@@ -4,6 +4,11 @@ date: 2026-04-07T16:16:24+00:00
 draft: false
 tags: ["notion", "organizacao", "produtividade", "apps"]
 description: "Como Usar o Notion Para Organizar Toda Sua Vida em Um So Lugar"
+
+cover:
+  image: "https://images.pexels.com/photos/32559175/pexels-photo-32559175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Usar o Notion Para Organizar Toda Sua Vida em Um So Lugar"
+  hidden: false
 ---
 
 O Notion e uma das ferramentas mais completas que existem para organizar sua vida pessoal e profissional. Ele funciona como bloco de notas, gerenciador de tarefas, banco de dados e muito mais, tudo em um unico aplicativo gratuito.
