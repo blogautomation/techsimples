@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["backup", "seguranca", "armazenamento", "nuvem"]
 description: "Como Fazer Backup de Tudo e Nunca Mais Perder Seus Arquivos"
+
+cover:
+  image: "https://images.pexels.com/photos/28243823/pexels-photo-28243823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Fazer Backup de Tudo e Nunca Mais Perder Seus Arquivos"
+  hidden: false
 ---
 
 Perder fotos de familia, documentos importantes ou anos de trabalho e um pesadelo que acontece com mais gente do que voce imagina. HD queima, celular cai na agua, notebook e roubado. Sem backup, tudo se vai para sempre. Veja como se proteger.
