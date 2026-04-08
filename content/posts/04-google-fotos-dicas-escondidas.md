@@ -6,7 +6,7 @@ tags: ["google fotos", "dicas", "celular"]
 description: "8 Funcoes Escondidas do Google Fotos que Voce Nao Conhecia"
 
 cover:
-  image: "https://images.pexels.com/photos/19376392/pexels-photo-19376392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/5860963/pexels-photo-5860963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "8 Funcoes Escondidas do Google Fotos que Voce Nao Conhecia"
   hidden: false
 ---
