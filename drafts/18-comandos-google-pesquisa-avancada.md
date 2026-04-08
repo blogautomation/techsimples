@@ -6,7 +6,7 @@ tags: ["google", "pesquisa", "produtividade", "dicas"]
 description: "Comandos Secretos do Google Que Vao Mudar Suas Pesquisas Para Sempre"
 
 cover:
-  image: "https://images.pexels.com/photos/12774460/pexels-photo-12774460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/877971/pexels-photo-877971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Comandos Secretos do Google Que Vao Mudar Suas Pesquisas Para Sempre"
   hidden: false
 ---
