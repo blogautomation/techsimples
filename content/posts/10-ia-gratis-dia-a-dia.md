@@ -6,7 +6,7 @@ tags: ["ia", "inteligencia artificial", "gratis"]
 description: "5 Ferramentas de IA Gratuitas para Usar no Dia a Dia"
 
 cover:
-  image: "https://images.pexels.com/photos/29227050/pexels-photo-29227050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/34718932/pexels-photo-34718932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "5 Ferramentas de IA Gratuitas para Usar no Dia a Dia"
   hidden: false
 ---
