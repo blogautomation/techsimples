@@ -6,7 +6,7 @@ tags: ["linux", "sistema operacional", "windows", "iniciantes"]
 description: "Linux Para Iniciantes: Vale a Pena Trocar o Windows em 2026?"
 
 cover:
-  image: "https://images.pexels.com/photos/32417524/pexels-photo-32417524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/207580/pexels-photo-207580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Linux Para Iniciantes: Vale a Pena Trocar o Windows em 2026?"
   hidden: false
 ---
