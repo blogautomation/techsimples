@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["linux", "sistema operacional", "windows", "iniciantes"]
 description: "Linux Para Iniciantes: Vale a Pena Trocar o Windows em 2026?"
+
+cover:
+  image: "https://images.pexels.com/photos/32417524/pexels-photo-32417524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Linux Para Iniciantes: Vale a Pena Trocar o Windows em 2026?"
+  hidden: false
 ---
 
 Linux deixou de ser coisa de programador. Em 2026, distribuicoes como Ubuntu e Linux Mint sao tao faceis de usar quanto Windows, e com vantagens que podem te surpreender. Sera que vale a pena trocar?
