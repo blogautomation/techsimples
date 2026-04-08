@@ -6,7 +6,7 @@ tags: ["vpn", "seguranca", "privacidade", "internet"]
 description: "VPN: O Que E, Para Que Serve e Como Usar Uma Hoje Mesmo"
 
 cover:
-  image: "https://images.pexels.com/photos/2882634/pexels-photo-2882634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/4489171/pexels-photo-4489171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "VPN: O Que E, Para Que Serve e Como Usar Uma Hoje Mesmo"
   hidden: false
 ---
