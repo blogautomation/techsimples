@@ -6,7 +6,7 @@ tags: ["canva", "design", "ferramentas", "gratis"]
 description: "Canva: Como Criar Artes Profissionais de Graca Mesmo Sem Saber Design"
 
 cover:
-  image: "https://images.pexels.com/photos/5463577/pexels-photo-5463577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/20456575/pexels-photo-20456575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Canva: Como Criar Artes Profissionais de Graca Mesmo Sem Saber Design"
   hidden: false
 ---
