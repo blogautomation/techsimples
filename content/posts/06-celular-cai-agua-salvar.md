@@ -4,6 +4,11 @@ date: 2026-04-02T15:38:26+00:00
 draft: false
 tags: ["celular", "emergencia", "dicas"]
 description: "Celular Caiu na Agua? Faca Isso Imediatamente"
+
+cover:
+  image: "https://images.pexels.com/photos/36578412/pexels-photo-36578412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Celular Caiu na Agua? Faca Isso Imediatamente"
+  hidden: false
 ---
 
 Seu celular caiu na agua? Os primeiros minutos sao cruciais. Siga esses passos na ordem certa.
