@@ -6,7 +6,7 @@ tags: ["senhas", "seguranca", "apps", "privacidade"]
 description: "Gerenciador de Senhas: Por Que Voce Precisa de Um e Qual Escolher"
 
 cover:
-  image: "https://images.pexels.com/photos/30227508/pexels-photo-30227508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/32912298/pexels-photo-32912298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Gerenciador de Senhas: Por Que Voce Precisa de Um e Qual Escolher"
   hidden: false
 ---
