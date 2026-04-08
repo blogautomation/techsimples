@@ -6,7 +6,7 @@ tags: ["internet", "wifi", "dicas"]
 description: "Como Deixar Sua Internet Mais Rapida em Casa"
 
 cover:
-  image: "https://images.pexels.com/photos/193777/pexels-photo-193777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/32698507/pexels-photo-32698507.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Deixar Sua Internet Mais Rapida em Casa"
   hidden: false
 ---
