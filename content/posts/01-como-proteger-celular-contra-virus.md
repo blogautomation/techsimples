@@ -4,6 +4,11 @@ date: 2026-03-28T14:04:28+00:00
 draft: false
 tags: ["seguranca", "celular", "android"]
 description: "Como Proteger Seu Celular Contra Virus e Hackers"
+
+cover:
+  image: "https://images.pexels.com/photos/2882554/pexels-photo-2882554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Proteger Seu Celular Contra Virus e Hackers"
+  hidden: false
 ---
 
 Seu celular guarda informacoes valiosas como senhas, fotos e dados bancarios. Protege-lo e essencial. Veja como.
