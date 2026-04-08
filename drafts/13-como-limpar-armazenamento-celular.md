@@ -6,7 +6,7 @@ tags: ["celular", "armazenamento", "dicas", "android", "iphone"]
 description: "Como Liberar Espaco no Celular Sem Perder Nada Importante"
 
 cover:
-  image: "https://images.pexels.com/photos/5535210/pexels-photo-5535210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/34908747/pexels-photo-34908747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Liberar Espaco no Celular Sem Perder Nada Importante"
   hidden: false
 ---
