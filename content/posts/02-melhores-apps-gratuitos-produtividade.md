@@ -4,6 +4,11 @@ date: 2026-03-29T14:05:33+00:00
 draft: false
 tags: ["apps", "produtividade", "gratis"]
 description: "7 Apps Gratuitos que Vao Aumentar Sua Produtividade"
+
+cover:
+  image: "https://images.pexels.com/photos/31148083/pexels-photo-31148083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "7 Apps Gratuitos que Vao Aumentar Sua Produtividade"
+  hidden: false
 ---
 
 Quer ser mais produtivo sem gastar nada? Esses 7 apps gratuitos vao transformar sua rotina.
