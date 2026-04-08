@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["seguranca", "2fa", "autenticacao", "privacidade"]
 description: "Autenticacao em Dois Fatores: A Protecao Que Voce Precisa Ativar Agora"
+
+cover:
+  image: "https://images.pexels.com/photos/24907225/pexels-photo-24907225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Autenticacao em Dois Fatores: A Protecao Que Voce Precisa Ativar Agora"
+  hidden: false
 ---
 
 Sua senha, por mais forte que seja, nao e suficiente para proteger suas contas. Hackers podem descobrir senhas de diversas formas. A autenticacao em dois fatores (2FA) adiciona uma camada extra de seguranca que torna praticamente impossivel alguem invadir suas contas.
