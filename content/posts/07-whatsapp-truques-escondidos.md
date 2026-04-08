@@ -6,7 +6,7 @@ tags: ["whatsapp", "truques", "celular"]
 description: "12 Truques do WhatsApp que a Maioria das Pessoas Nao Sabe"
 
 cover:
-  image: "https://images.pexels.com/photos/6458056/pexels-photo-6458056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/6669782/pexels-photo-6669782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "WhatsApp Truques Escondidos"
   hidden: false
 ---
