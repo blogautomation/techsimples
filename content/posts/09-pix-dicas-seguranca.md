@@ -6,7 +6,7 @@ tags: ["pix", "seguranca", "financas"]
 description: "PIX: 5 Dicas de Seguranca que Voce Precisa Saber"
 
 cover:
-  image: "https://images.pexels.com/photos/7352064/pexels-photo-7352064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/6207703/pexels-photo-6207703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "PIX: 5 Dicas de Seguranca que Voce Precisa Saber"
   hidden: false
 ---
