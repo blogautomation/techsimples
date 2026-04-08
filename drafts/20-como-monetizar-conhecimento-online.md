@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["monetizacao", "renda extra", "internet", "empreendedorismo"]
 description: "Como Ganhar Dinheiro Compartilhando Conhecimento Online em 2026"
+
+cover:
+  image: "https://images.pexels.com/photos/34104793/pexels-photo-34104793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Ganhar Dinheiro Compartilhando Conhecimento Online em 2026"
+  hidden: false
 ---
 
 Voce tem conhecimento sobre algum assunto? Entao tem potencial para ganhar dinheiro online. Nao precisa ser especialista com diploma. Se voce sabe fazer algo que outras pessoas querem aprender, existe um mercado para isso.
