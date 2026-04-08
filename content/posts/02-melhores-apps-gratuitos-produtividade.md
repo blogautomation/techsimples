@@ -6,7 +6,7 @@ tags: ["apps", "produtividade", "gratis"]
 description: "7 Apps Gratuitos que Vao Aumentar Sua Produtividade"
 
 cover:
-  image: "https://images.pexels.com/photos/31148083/pexels-photo-31148083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/892757/pexels-photo-892757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "7 Apps Gratuitos que Vao Aumentar Sua Produtividade"
   hidden: false
 ---
