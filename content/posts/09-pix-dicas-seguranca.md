@@ -4,6 +4,11 @@ date: 2026-04-05T14:05:57+00:00
 draft: false
 tags: ["pix", "seguranca", "financas"]
 description: "PIX: 5 Dicas de Seguranca que Voce Precisa Saber"
+
+cover:
+  image: "https://images.pexels.com/photos/7352064/pexels-photo-7352064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "PIX: 5 Dicas de Seguranca que Voce Precisa Saber"
+  hidden: false
 ---
 
 O PIX revolucionou os pagamentos no Brasil, mas tambem trouxe novos golpes. Proteja-se com essas 5 dicas.
