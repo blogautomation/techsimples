@@ -6,7 +6,7 @@ tags: ["celular", "emergencia", "dicas"]
 description: "Celular Caiu na Agua? Faca Isso Imediatamente"
 
 cover:
-  image: "https://images.pexels.com/photos/36578412/pexels-photo-36578412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/3838285/pexels-photo-3838285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Celular Caiu na Agua? Faca Isso Imediatamente"
   hidden: false
 ---
