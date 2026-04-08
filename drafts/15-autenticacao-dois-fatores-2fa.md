@@ -6,7 +6,7 @@ tags: ["seguranca", "2fa", "autenticacao", "privacidade"]
 description: "Autenticacao em Dois Fatores: A Protecao Que Voce Precisa Ativar Agora"
 
 cover:
-  image: "https://images.pexels.com/photos/24907225/pexels-photo-24907225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/35447982/pexels-photo-35447982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Autenticacao em Dois Fatores: A Protecao Que Voce Precisa Ativar Agora"
   hidden: false
 ---
