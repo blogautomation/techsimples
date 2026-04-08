@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["celular", "armazenamento", "dicas", "android", "iphone"]
 description: "Como Liberar Espaco no Celular Sem Perder Nada Importante"
+
+cover:
+  image: "https://images.pexels.com/photos/5535210/pexels-photo-5535210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Liberar Espaco no Celular Sem Perder Nada Importante"
+  hidden: false
 ---
 
 Celular cheio e um dos problemas mais comuns que existem. Aquela mensagem de "armazenamento quase cheio" aparece nos piores momentos e impede voce de tirar fotos, gravar videos ou instalar apps. A boa noticia e que da para liberar muito espaco sem perder nada importante.
