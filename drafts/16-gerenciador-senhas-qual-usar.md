@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["senhas", "seguranca", "apps", "privacidade"]
 description: "Gerenciador de Senhas: Por Que Voce Precisa de Um e Qual Escolher"
+
+cover:
+  image: "https://images.pexels.com/photos/30227508/pexels-photo-30227508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Gerenciador de Senhas: Por Que Voce Precisa de Um e Qual Escolher"
+  hidden: false
 ---
 
 Voce usa a mesma senha em varios sites? Se a resposta e sim, voce esta em perigo. Quando um site e hackeado e sua senha vaza, criminosos testam essa mesma senha em todos os outros servicos. Um gerenciador de senhas resolve esse problema de forma simples e segura.
