@@ -18,6 +18,11 @@ theme = "PaperMod"
   Title = "TechSimples"
   Content = "Dicas de tecnologia, tutoriais praticos e solucoes rapidas para celular e computador."
 
+[params.cover]
+  hidden = false
+  hiddenInList = false
+  hiddenInSingle = false
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
