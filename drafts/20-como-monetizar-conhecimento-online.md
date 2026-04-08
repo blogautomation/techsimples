@@ -6,7 +6,7 @@ tags: ["monetizacao", "renda extra", "internet", "empreendedorismo"]
 description: "Como Ganhar Dinheiro Compartilhando Conhecimento Online em 2026"
 
 cover:
-  image: "https://images.pexels.com/photos/34104793/pexels-photo-34104793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/15591240/pexels-photo-15591240.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Ganhar Dinheiro Compartilhando Conhecimento Online em 2026"
   hidden: false
 ---
