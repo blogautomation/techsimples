@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["vpn", "seguranca", "privacidade", "internet"]
 description: "VPN: O Que E, Para Que Serve e Como Usar Uma Hoje Mesmo"
+
+cover:
+  image: "https://images.pexels.com/photos/2882634/pexels-photo-2882634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "VPN: O Que E, Para Que Serve e Como Usar Uma Hoje Mesmo"
+  hidden: false
 ---
 
 VPN significa Virtual Private Network, ou Rede Virtual Privada. Em termos simples, e uma ferramenta que cria um tunel seguro entre seu dispositivo e a internet, protegendo seus dados e sua privacidade online.
