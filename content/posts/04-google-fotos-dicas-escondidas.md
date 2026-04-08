@@ -4,6 +4,11 @@ date: 2026-03-31T15:54:30+00:00
 draft: false
 tags: ["google fotos", "dicas", "celular"]
 description: "8 Funcoes Escondidas do Google Fotos que Voce Nao Conhecia"
+
+cover:
+  image: "https://images.pexels.com/photos/19376392/pexels-photo-19376392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "8 Funcoes Escondidas do Google Fotos que Voce Nao Conhecia"
+  hidden: false
 ---
 
 O Google Fotos e muito mais do que um simples galeria. Descubra funcoes poderosas que a maioria das pessoas nao sabe que existem.
