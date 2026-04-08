@@ -4,6 +4,11 @@ date: 2026-04-04T14:04:56+00:00
 draft: false
 tags: ["notebook", "windows", "performance"]
 description: "Notebook Lento? 6 Solucoes que Funcionam de Verdade"
+
+cover:
+  image: "https://images.pexels.com/photos/31858379/pexels-photo-31858379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Notebook Lento? 6 Solucoes que Funcionam de Verdade"
+  hidden: false
 ---
 
 Seu notebook esta lento e voce nao quer gastar com um novo? Essas 6 solucoes resolvem a maioria dos problemas.
