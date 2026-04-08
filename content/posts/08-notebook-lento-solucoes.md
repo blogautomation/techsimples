@@ -6,7 +6,7 @@ tags: ["notebook", "windows", "performance"]
 description: "Notebook Lento? 6 Solucoes que Funcionam de Verdade"
 
 cover:
-  image: "https://images.pexels.com/photos/31858379/pexels-photo-31858379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/4065704/pexels-photo-4065704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Notebook Lento? 6 Solucoes que Funcionam de Verdade"
   hidden: false
 ---
