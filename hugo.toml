@@ -1,3 +1,40 @@
+baseURL = "https://blogautomation.github.io/techsimples/"
+languageCode = "pt-BR"
+title = "TechSimples"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Dicas de tecnologia, tutoriais praticos e solucoes rapidas para celular e computador."
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  defaultTheme = "auto"
+
+[params.homeInfoParams]
+  Title = "TechSimples"
+  Content = "Dicas de tecnologia, tutoriais praticos e solucoes rapidas para celular e computador."
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+  name = "Sobre"
+  url = "/sobre/"
+  weight = 1
+
+[[menu.main]]
+  name = "Contato"
+  url = "/contato/"
+  weight = 2
+
+[[menu.main]]
+  name = "Privacidade"
+  url = "/privacidade/"
+  weight = 3
 
 [[menu.main]]
   name = "Termos"
