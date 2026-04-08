@@ -4,6 +4,11 @@ date: 2026-04-03T14:30:53+00:00
 draft: false
 tags: ["whatsapp", "truques", "celular"]
 description: "12 Truques do WhatsApp que a Maioria das Pessoas Nao Sabe"
+
+cover:
+  image: "https://images.pexels.com/photos/6458056/pexels-photo-6458056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "WhatsApp Truques Escondidos"
+  hidden: false
 ---
 
 O WhatsApp tem funcoes escondidas que facilitam muito o dia a dia. Confira 12 truques uteis.
