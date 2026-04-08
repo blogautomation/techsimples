@@ -6,7 +6,7 @@ tags: ["seguranca", "celular", "android"]
 description: "Como Proteger Seu Celular Contra Virus e Hackers"
 
 cover:
-  image: "https://images.pexels.com/photos/2882554/pexels-photo-2882554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/10915659/pexels-photo-10915659.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Proteger Seu Celular Contra Virus e Hackers"
   hidden: false
 ---
