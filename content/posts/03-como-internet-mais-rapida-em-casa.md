@@ -4,6 +4,11 @@ date: 2026-03-30T15:57:53+00:00
 draft: false
 tags: ["internet", "wifi", "dicas"]
 description: "Como Deixar Sua Internet Mais Rapida em Casa"
+
+cover:
+  image: "https://images.pexels.com/photos/193777/pexels-photo-193777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Deixar Sua Internet Mais Rapida em Casa"
+  hidden: false
 ---
 
 Internet lenta em casa e frustrante. Antes de ligar para a operadora, tente essas solucoes simples.
