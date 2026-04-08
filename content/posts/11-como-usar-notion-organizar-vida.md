@@ -6,7 +6,7 @@ tags: ["notion", "organizacao", "produtividade", "apps"]
 description: "Como Usar o Notion Para Organizar Toda Sua Vida em Um So Lugar"
 
 cover:
-  image: "https://images.pexels.com/photos/32559175/pexels-photo-32559175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/892757/pexels-photo-892757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Usar o Notion Para Organizar Toda Sua Vida em Um So Lugar"
   hidden: false
 ---
