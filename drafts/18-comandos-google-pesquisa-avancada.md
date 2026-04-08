@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["google", "pesquisa", "produtividade", "dicas"]
 description: "Comandos Secretos do Google Que Vao Mudar Suas Pesquisas Para Sempre"
+
+cover:
+  image: "https://images.pexels.com/photos/12774460/pexels-photo-12774460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Comandos Secretos do Google Que Vao Mudar Suas Pesquisas Para Sempre"
+  hidden: false
 ---
 
 Voce usa o Google todo dia, mas provavelmente so digita palavras e torce para encontrar o que precisa. Existem comandos especiais que filtram resultados e te levam exatamente ao que voce procura em segundos.
