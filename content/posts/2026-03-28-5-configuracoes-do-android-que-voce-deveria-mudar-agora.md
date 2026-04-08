@@ -4,6 +4,11 @@ date: 2026-03-28T02:55:57+00:00
 draft: false
 tags: ["tecnologia", "dicas"]
 description: "5 Configuracoes do Android que Voce Deveria Mudar Agora"
+
+cover:
+  image: "https://images.pexels.com/photos/35678475/pexels-photo-35678475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "5 Configuracoes do Android que Voce Deveria Mudar Agora"
+  hidden: false
 ---
 
 ![5 Configuracoes do Android que Voce Deveria Mudar Agora](https://images.pexels.com/photos/6901037/pexels-photo-6901037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
