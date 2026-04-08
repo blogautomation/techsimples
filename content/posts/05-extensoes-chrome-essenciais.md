@@ -6,7 +6,7 @@ tags: ["chrome", "extensoes", "navegador"]
 description: "10 Extensoes do Chrome que Todo Mundo Deveria Usar"
 
 cover:
-  image: "https://images.pexels.com/photos/36507928/pexels-photo-36507928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/45708/pexels-photo-45708.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "10 Extensoes do Chrome que Todo Mundo Deveria Usar"
   hidden: false
 ---
