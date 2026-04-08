@@ -6,7 +6,7 @@ tags: ["techsimples"]
 description: "Como Liberar Espaco no Android Sem Apagar Seus Apps"
 
 cover:
-  image: "https://images.pexels.com/photos/3997660/pexels-photo-3997660.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/31605563/pexels-photo-31605563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Liberar Espaco no Android Sem Apagar Seus Apps"
   hidden: false
 ---
