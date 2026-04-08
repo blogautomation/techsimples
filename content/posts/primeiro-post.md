@@ -4,6 +4,11 @@ date: 2026-03-27T10:00:00-03:00
 draft: false
 tags: ["techsimples"]
 description: "Como Liberar Espaco no Android Sem Apagar Seus Apps"
+
+cover:
+  image: "https://images.pexels.com/photos/3997660/pexels-photo-3997660.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Liberar Espaco no Android Sem Apagar Seus Apps"
+  hidden: false
 ---
 
 Seu celular Android esta cheio e voce nao quer apagar seus apps favoritos? Existem varias formas de liberar espaco sem perder nada importante.
