@@ -1,6 +1,6 @@
 ---
 title: "Canva: Como Criar Artes Profissionais de Graca Mesmo Sem Saber Design"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-10T15:08:22+00:00
 draft: false
 tags: ["canva", "design", "ferramentas", "gratis"]
 description: "Canva: Como Criar Artes Profissionais de Graca Mesmo Sem Saber Design"
