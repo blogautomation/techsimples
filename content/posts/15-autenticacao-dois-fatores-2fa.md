@@ -1,6 +1,6 @@
 ---
 title: "Autenticacao em Dois Fatores: A Protecao Que Voce Precisa Ativar Agora"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-11T14:07:08+00:00
 draft: false
 tags: ["seguranca", "2fa", "autenticacao", "privacidade"]
 description: "Autenticacao em Dois Fatores: A Protecao Que Voce Precisa Ativar Agora"
