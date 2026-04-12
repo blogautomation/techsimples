@@ -1,6 +1,6 @@
 ---
 title: "Gerenciador de Senhas: Por Que Voce Precisa de Um e Qual Escolher"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-12T14:11:07+00:00
 draft: false
 tags: ["senhas", "seguranca", "apps", "privacidade"]
 description: "Gerenciador de Senhas: Por Que Voce Precisa de Um e Qual Escolher"
