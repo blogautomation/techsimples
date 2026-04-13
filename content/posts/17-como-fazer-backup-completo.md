@@ -1,6 +1,6 @@
 ---
 title: "Como Fazer Backup de Tudo e Nunca Mais Perder Seus Arquivos"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-13T16:40:29+00:00
 draft: false
 tags: ["backup", "seguranca", "armazenamento", "nuvem"]
 description: "Como Fazer Backup de Tudo e Nunca Mais Perder Seus Arquivos"
