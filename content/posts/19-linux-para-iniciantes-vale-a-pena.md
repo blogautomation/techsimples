@@ -1,6 +1,6 @@
 ---
 title: "Linux Para Iniciantes: Vale a Pena Trocar o Windows em 2026?"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-15T15:54:47+00:00
 draft: false
 tags: ["linux", "sistema operacional", "windows", "iniciantes"]
 description: "Linux Para Iniciantes: Vale a Pena Trocar o Windows em 2026?"
